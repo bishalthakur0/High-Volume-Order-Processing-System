@@ -1,0 +1,30 @@
+# Java
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+dist/
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Artifacts
+.gemini/
